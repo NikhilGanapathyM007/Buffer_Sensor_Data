@@ -27,7 +27,7 @@ This project is a Producer-Consumer simulation built with Qt. It demonstrates a 
 2. **Clone the Repository:**
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/NikhilGanapathyM007/Buffer_Sensor_Data.git
 cd <repository_directory>
 ```
 
